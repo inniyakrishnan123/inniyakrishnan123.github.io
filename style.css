@@ -1,0 +1,75 @@
+h4.spacing {
+    margin-left: 5.5em;
+    font-weight: normal;
+}
+
+h4.spacing span {
+    background-color: rgb(255, 206, 225);
+}
+
+p.spacing{
+    margin-left: 8em;
+    margin-right: 8em;
+}
+
+p.spacing2{
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+.customTable, .customTable tr, .customTable td {
+    border: 0.07em solid black;
+    padding: 1.5em;
+  }
+
+.customTable {
+    border: none;
+}
+
+.customTable1, .customTable tr, .customTable td {
+    padding: 1.5em;
+  }
+
+.brownBackground span {
+    background-color: rgb(248, 233, 217);
+}
+
+.greenBackground span {
+    background-color: rgb(205, 220, 207);
+}
+
+.blueBackground span {
+    background-color: rgb(214, 234, 240);
+}
+
+.redBackground span {
+    background-color: rgb(246, 215, 215);
+}
+
+.brownBackgroundImage {
+    padding: 20px;
+    background-color: rgb(248, 233, 217);
+    width: 30em;
+    height: 20em;
+}
+
+.greenBackgroundImage {
+    padding: 20px;
+    background-color: rgb(205, 220, 207);
+    width: 22em;
+    height: 30em;
+}
+
+.blueBackgroundImage {
+    padding: 20px;
+    background-color: rgb(214, 234, 240);
+    width: 30em;
+    height: 19em;
+}
+
+.redBackgroundImage {
+    padding: 20px;
+    background-color: rgb(246, 215, 215);
+    width: 28em;
+    height: 20em;
+}
